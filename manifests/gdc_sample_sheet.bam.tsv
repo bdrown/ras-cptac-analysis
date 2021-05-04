@@ -1,0 +1,25 @@
+File ID	File Name	Data Category	Data Type	Project ID	Case ID	Sample ID	Sample Type
+9ef06ed6-0398-4fad-8559-a58283de181f	6af12fe4-654f-4ddc-b00c-5e1ec7707bf6.rna_seq.genomic.gdc_realn.bam	Sequencing Reads	Aligned Reads	CPTAC-2	20CO001	d8345fa1-f692-4025-bc82-bfaec6	Primary Tumor
+240ffd60-27e2-4889-85d9-8b855a90bf5f	ab4efb45-29c3-42e4-901f-aaa52d985de1.rna_seq.genomic.gdc_realn.bam	Sequencing Reads	Aligned Reads	CPTAC-2	16CO003	47b9deba-dea0-4e0c-8b0a-4864c3	Primary Tumor
+5ea1f049-d0c7-4a78-bf06-66302e1af3b9	8c558f1b-5296-4085-9661-ec43a714d675.rna_seq.genomic.gdc_realn.bam	Sequencing Reads	Aligned Reads	CPTAC-2	11CO057	e515eb5c-8005-416a-9b42-59de9d	Primary Tumor
+f922246f-eeeb-49a4-9b4f-d9473dfd8526	79ef1355-5257-4468-bd98-5ee2ca551fb6.rna_seq.genomic.gdc_realn.bam	Sequencing Reads	Aligned Reads	CPTAC-2	09CO008	aa0f5b40-3290-4255-8f4d-f45d4e	Primary Tumor
+e1419f10-9d60-40d9-bf6d-9dfb3fd63b2b	c07c1628-0638-4953-9cca-40eb9ab00a9a.rna_seq.genomic.gdc_realn.bam	Sequencing Reads	Aligned Reads	CPTAC-2	11CO054	f6a7f764-2495-4a1d-89a2-e12f51	Primary Tumor
+b39ff517-0de2-4c5f-b0f0-95bf9193894b	2f52ae29-1908-4c69-91d2-799943c85d23.rna_seq.genomic.gdc_realn.bam	Sequencing Reads	Aligned Reads	CPTAC-2	15CO001	c2db7236-990c-42b6-9ffb-2ad150	Primary Tumor
+c64b3fb8-da2b-487f-bfc1-910dce18d5a4	3d239c31-2f45-415b-98c0-00cf8e6aa796.rna_seq.genomic.gdc_realn.bam	Sequencing Reads	Aligned Reads	CPTAC-2	01CO008	9452572f-e3ec-4063-a82e-43ac90	Primary Tumor
+eb5e4b08-9278-408f-87f6-5bfe71d38a43	087dc270-41a9-4aac-96dc-c6b2a96b9be8.rna_seq.genomic.gdc_realn.bam	Sequencing Reads	Aligned Reads	CPTAC-2	06CO001	87408d9e-4029-4e8f-b14c-8efc04	Primary Tumor
+08236b24-ef57-4d6a-b6c9-03355eb91c39	eff8d4f3-1cda-410c-8552-3c52b15c93c8.rna_seq.genomic.gdc_realn.bam	Sequencing Reads	Aligned Reads	CPTAC-2	01CO001	760f15d2-444c-4deb-b133-62f3ca	Primary Tumor
+119c43a7-fbd0-4390-ae50-9947329ac29c	acbfb255-ead8-401c-8dda-bc27c1786113.rna_seq.genomic.gdc_realn.bam	Sequencing Reads	Aligned Reads	CPTAC-2	11CO020	52d61ab1-5781-4b47-8e88-37c2ea	Primary Tumor
+d27d7149-f366-4f1f-9f42-673c5b31e68d	1e201544-8640-4d63-968b-ebbfc64ff12c.rna_seq.genomic.gdc_realn.bam	Sequencing Reads	Aligned Reads	CPTAC-2	11CO058	d3078fa8-0692-411f-8441-0c7c48	Primary Tumor
+a668ca85-3a85-4ebc-9a77-1aba04bf148a	a1e323f9-8a01-4365-832f-9e73a94ce066.rna_seq.genomic.gdc_realn.bam	Sequencing Reads	Aligned Reads	CPTAC-2	01CO022	7a0266b4-b07c-41dc-8ddd-350e1b	Primary Tumor
+67269ac7-6ab0-4228-9766-534b8d36a8a0	04927bfb-6143-4add-94fc-d9aa7f1ac123.rna_seq.genomic.gdc_realn.bam	Sequencing Reads	Aligned Reads	CPTAC-2	05CO011	8495cc54-eb88-40ab-b03f-363edf	Primary Tumor
+21fab434-376b-4ddf-be5e-cb1596459033	c0611625-7103-430e-a5a1-bec523691e31.rna_seq.genomic.gdc_realn.bam	Sequencing Reads	Aligned Reads	CPTAC-2	05CO045	92c1ebb5-ac1d-4bf5-a14f-516e1d	Primary Tumor
+34ba5275-2b75-4b07-afdf-4af63e32d695	bad3ad35-ab35-4ed4-8b12-5f4202be4b0a.rna_seq.genomic.gdc_realn.bam	Sequencing Reads	Aligned Reads	CPTAC-2	11CO043	591fb460-703a-437d-8d9a-ff2a35	Primary Tumor
+d4a46d2b-d7ff-4e1e-b52d-d1ed82b3fa58	40e1779d-3b03-4b82-b11a-ab77d377011a.rna_seq.genomic.gdc_realn.bam	Sequencing Reads	Aligned Reads	CPTAC-2	09CO018	743c74e4-cd76-4f38-8cb4-3c9107	Primary Tumor
+35645cf4-e4ef-487f-bff7-53b325cae101	bc4327f5-6923-442d-8ca9-b6804f677c55.rna_seq.genomic.gdc_realn.bam	Sequencing Reads	Aligned Reads	CPTAC-2	01CO006	f9d6fb1b-988e-4d28-9272-cc672f	Primary Tumor
+3b4797f9-81af-4182-8421-83ebe1c9e032	2707d435-6cd9-4418-ab32-ce7be48aff66.rna_seq.genomic.gdc_realn.bam	Sequencing Reads	Aligned Reads	CPTAC-2	11CO044	7e3d5ae0-3dcc-4207-8dd2-59ab4b	Primary Tumor
+1afe3991-5804-4c22-96ec-2797f5251c02	4820b3b8-5de2-4354-acd4-c4aff0732a13.rna_seq.genomic.gdc_realn.bam	Sequencing Reads	Aligned Reads	CPTAC-2	11CO021	cf795cd2-317b-4897-a35e-390001	Primary Tumor
+efbd3937-fab4-4d59-aaf4-26c3fb01aacb	c7570583-3355-45cd-97f6-eb027164a279.rna_seq.genomic.gdc_realn.bam	Sequencing Reads	Aligned Reads	CPTAC-2	01CO005	59891744-2db3-4541-a86a-7f911f	Primary Tumor
+52d603ef-ad4c-44a2-ad5f-ff5ec53655ce	1b78bbc2-ed9a-4bcf-83a2-422f93e4dc9e.rna_seq.genomic.gdc_realn.bam	Sequencing Reads	Aligned Reads	CPTAC-2	09CO015	d068de5f-8394-46bc-b03a-c6dc9c	Primary Tumor
+36f6cabe-9853-4c62-ae27-c757f7e88836	7e7f0db9-e771-42d7-bfe7-aa35f5a87601.rna_seq.genomic.gdc_realn.bam	Sequencing Reads	Aligned Reads	CPTAC-2	16CO006	97423edb-6f19-4b41-a7cb-af1635	Primary Tumor
+c9f724b7-9481-4500-80ea-77fc5efa324e	72c6c067-9bd7-4c1e-ac1b-7d8fd22c1b43.rna_seq.genomic.gdc_realn.bam	Sequencing Reads	Aligned Reads	CPTAC-2	09CO014	1ea1d7ee-e382-4a68-8e7c-74e833	Primary Tumor
+7d4ae90b-559a-417a-849c-5816f66b7336	cc302053-6a12-4637-b86e-7351160a7766.rna_seq.genomic.gdc_realn.bam	Sequencing Reads	Aligned Reads	CPTAC-2	05CO014	6968a80f-fd06-4669-b4bd-9a5cb5	Primary Tumor

@@ -1,0 +1,8 @@
+# GDC token
+gdc-user-token*
+
+# Data folders
+maf
+bam
+fpkm
+output

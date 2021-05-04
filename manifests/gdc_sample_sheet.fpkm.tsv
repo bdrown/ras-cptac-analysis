@@ -1,0 +1,25 @@
+File ID	File Name	Data Category	Data Type	Project ID	Case ID	Sample ID	Sample Type
+f0640eb9-1e21-42a0-868c-a533a174af5a	9c2abc36-1984-4374-bf46-85eecc443f9d.FPKM.txt.gz	Transcriptome Profiling	Gene Expression Quantification	CPTAC-2	11CO057	e515eb5c-8005-416a-9b42-59de9d	Primary Tumor
+a8990014-d6bc-4c4a-9889-d4c1a05d0f7f	c12cc9ea-2e8d-4cb2-b47a-111cbefafac8.FPKM.txt.gz	Transcriptome Profiling	Gene Expression Quantification	CPTAC-2	01CO005	59891744-2db3-4541-a86a-7f911f	Primary Tumor
+29a85e62-347a-4544-9869-893fb39cc602	da577b4a-364c-4161-908b-904e669e26f0.FPKM.txt.gz	Transcriptome Profiling	Gene Expression Quantification	CPTAC-2	05CO045	92c1ebb5-ac1d-4bf5-a14f-516e1d	Primary Tumor
+69269716-4a8d-4899-955c-a5dae4203a43	e17a7ff0-fe84-4754-8db2-261b4db37d61.FPKM.txt.gz	Transcriptome Profiling	Gene Expression Quantification	CPTAC-2	11CO054	f6a7f764-2495-4a1d-89a2-e12f51	Primary Tumor
+fb7c1788-79ab-44d1-85b2-aad349617528	1190af16-384d-4090-9209-6a1079110a52.FPKM.txt.gz	Transcriptome Profiling	Gene Expression Quantification	CPTAC-2	16CO003	47b9deba-dea0-4e0c-8b0a-4864c3	Primary Tumor
+66b461b8-e0a8-4dea-bddc-912d4b44ce8e	080c532c-19f4-4738-a3b1-391fc91df59a.FPKM.txt.gz	Transcriptome Profiling	Gene Expression Quantification	CPTAC-2	01CO001	760f15d2-444c-4deb-b133-62f3ca	Primary Tumor
+14175379-8fee-4b3f-8128-25df5adaf22a	8ef0c974-0cab-43df-89dd-d13c24becfff.FPKM.txt.gz	Transcriptome Profiling	Gene Expression Quantification	CPTAC-2	11CO058	d3078fa8-0692-411f-8441-0c7c48	Primary Tumor
+6f666e54-199c-48e3-b528-8f6432797b44	5e7348d1-8c2a-4971-aeaf-e6b6aef1bc81.FPKM.txt.gz	Transcriptome Profiling	Gene Expression Quantification	CPTAC-2	01CO006	f9d6fb1b-988e-4d28-9272-cc672f	Primary Tumor
+70fc0be0-ee4b-4aa6-a95b-5b3612cfca0f	6983df41-aae4-4763-8f1a-d834ce6b4fdb.FPKM.txt.gz	Transcriptome Profiling	Gene Expression Quantification	CPTAC-2	11CO020	52d61ab1-5781-4b47-8e88-37c2ea	Primary Tumor
+52f1d873-b2b2-46cd-96fc-4225f7997b06	a2157356-1a36-41a4-a32e-a3400211bb3f.FPKM.txt.gz	Transcriptome Profiling	Gene Expression Quantification	CPTAC-2	09CO014	1ea1d7ee-e382-4a68-8e7c-74e833	Primary Tumor
+278bf355-5794-47aa-baf9-e44a6879c000	7bdbefb8-dff8-4754-8b96-0b35785abc3c.FPKM.txt.gz	Transcriptome Profiling	Gene Expression Quantification	CPTAC-2	09CO018	743c74e4-cd76-4f38-8cb4-3c9107	Primary Tumor
+fe3b32f3-5363-4289-8197-944699121ed5	70a3d088-8137-4e02-a4b4-ee50b931b6ca.FPKM.txt.gz	Transcriptome Profiling	Gene Expression Quantification	CPTAC-2	09CO008	aa0f5b40-3290-4255-8f4d-f45d4e	Primary Tumor
+8538e607-5aa4-434d-a85e-b426b0fc2656	e8ffcc3f-a7cc-474c-bef5-a96dce97b2fd.FPKM.txt.gz	Transcriptome Profiling	Gene Expression Quantification	CPTAC-2	01CO008	9452572f-e3ec-4063-a82e-43ac90	Primary Tumor
+97ee7cc3-29c5-4972-8bda-45db3f04ee70	46822147-dc34-4da8-9bdb-e8cb0a4b530f.FPKM.txt.gz	Transcriptome Profiling	Gene Expression Quantification	CPTAC-2	15CO001	c2db7236-990c-42b6-9ffb-2ad150	Primary Tumor
+4e25f481-02e8-4193-8fab-884197737e3e	d4927620-a881-4035-9755-f2759e204c4f.FPKM.txt.gz	Transcriptome Profiling	Gene Expression Quantification	CPTAC-2	20CO001	d8345fa1-f692-4025-bc82-bfaec6	Primary Tumor
+441c5493-d2e3-46cc-881d-15f61183bef2	53ce822d-bc91-45ff-93f8-f4e6903d6c1b.FPKM.txt.gz	Transcriptome Profiling	Gene Expression Quantification	CPTAC-2	11CO043	591fb460-703a-437d-8d9a-ff2a35	Primary Tumor
+8902f831-e674-4aa1-8c22-c04096706b66	f51abf73-9e9d-41a9-9a40-5ff9257435d3.FPKM.txt.gz	Transcriptome Profiling	Gene Expression Quantification	CPTAC-2	16CO006	97423edb-6f19-4b41-a7cb-af1635	Primary Tumor
+74618e74-7203-480b-92bd-13a50f7b2489	84372c78-90e9-455f-b849-c9ac567ed6da.FPKM.txt.gz	Transcriptome Profiling	Gene Expression Quantification	CPTAC-2	09CO015	d068de5f-8394-46bc-b03a-c6dc9c	Primary Tumor
+9cdfcd6a-7783-4ac9-9ccc-14923f0f0c1b	d4e6135c-c14a-4656-b312-cc6ca4e920d3.FPKM.txt.gz	Transcriptome Profiling	Gene Expression Quantification	CPTAC-2	06CO001	87408d9e-4029-4e8f-b14c-8efc04	Primary Tumor
+4f9f4497-5ab3-40a4-aebf-7b5ece63c715	114b3579-4629-4390-ba85-d923d8dd308e.FPKM.txt.gz	Transcriptome Profiling	Gene Expression Quantification	CPTAC-2	11CO021	cf795cd2-317b-4897-a35e-390001	Primary Tumor
+3ad8e17f-235f-41a0-81a8-59f9e409edb2	98da9d5c-e58f-4750-8f08-884eafedd2e1.FPKM.txt.gz	Transcriptome Profiling	Gene Expression Quantification	CPTAC-2	11CO044	7e3d5ae0-3dcc-4207-8dd2-59ab4b	Primary Tumor
+9867309c-3611-4676-a4c3-0df73fd9d58c	cfc895dc-976d-4735-8794-8ac6b33b8ed6.FPKM.txt.gz	Transcriptome Profiling	Gene Expression Quantification	CPTAC-2	05CO014	6968a80f-fd06-4669-b4bd-9a5cb5	Primary Tumor
+e275e097-97ed-44f7-9da3-d7cf7380c794	f62bab31-8f71-41fc-8251-f39be9f969d2.FPKM.txt.gz	Transcriptome Profiling	Gene Expression Quantification	CPTAC-2	01CO022	7a0266b4-b07c-41dc-8ddd-350e1b	Primary Tumor
+7c22576c-31c6-47b5-9c17-85802be92d21	fe7122fe-b9e0-47a0-978f-0dffadbec157.FPKM.txt.gz	Transcriptome Profiling	Gene Expression Quantification	CPTAC-2	05CO011	8495cc54-eb88-40ab-b03f-363edf	Primary Tumor
