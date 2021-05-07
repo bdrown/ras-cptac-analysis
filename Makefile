@@ -1,6 +1,8 @@
 include config.mk
 
-.PHONY : all download
+.PHONY : all download analyze
+
+all : download analyze
 
 download : maf/downloaded bam/downloaded fpkm/downloaded
 
@@ -26,8 +28,16 @@ fpkm/downloaded : manifests/gdc_manifest.fpkm.txt
 	cd fpkm && rm -R -- */
 	cd fpkm && gunzip *.gz
 	touch fpkm/downloaded
-	
+
+analyze : maf/merged.csv
+
+maf/merged.csv : scripts/get-snp.py maf/downloaded
+	python $< maf KRAS NRAS HRAS
+
 clean :
+	rm maf/merged.csv
+
+clean-deep :
 	rm -Rf maf
 	rm -Rf bam
 	rm -Rf fpkm
