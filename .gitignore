@@ -4,5 +4,8 @@ gdc-user-token*
 # Data folders
 maf
 bam
+fastq
+refs
+salmon
 fpkm
 output
